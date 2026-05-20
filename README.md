@@ -72,11 +72,11 @@ Training runs are conducted incrementally. Starting from a small example count, 
 
 ## Deliverables
 
-- [ ] Learning curve plots per task
-- [ ] Cross-task learning rate comparison
-- [ ] Task complexity classification
-- [ ] Failure pattern analysis by training stage
-- [ ] Streamlit dashboard *(stretch)*
+-  Learning curve plots per task
+-  Cross-task learning rate comparison
+-  Task complexity classification
+-  Failure pattern analysis by training stage
+-  Streamlit dashboard *(stretch)*
 
 ---
 
@@ -103,4 +103,4 @@ vla-learning-curve-analysis/
 ## Contact
 
 Samuel Tinker — University of Washington
-[LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+[LinkedIn](www.linkedin.com/in/samuel-tinker-b4a86b27b) · [GitHub](https://github.com/samuel-h-tinker)
