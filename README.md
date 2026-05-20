@@ -4,7 +4,7 @@ Measuring how many training examples a Vision-Language-Action model needs to rel
 
 **How many training examples does a Vision-Language-Action model need to reliably execute a physical lab task?**
 
-This project measures the learning curve of [AIRA](https://github.com/), a Vision-Language-Action (VLA) model paired with a collaborative robot arm designed to automate wet-lab workflows. The goal is to produce a data-driven answer to a question that currently has none: how much training data does it actually take for a VLA system to reach reliable task performance — and does that number vary predictably by task type?
+This project measures the learning curve of AIRA, a Vision-Language-Action (VLA) model paired with a collaborative robot arm designed to automate wet-lab workflows. AIRA is built on [LabOS](https://ai4labos.com), a published AI-XR co-scientist platform developed by the same team in collaboration with Stanford and Oregon State University. The goal is to produce a data-driven answer to a question that currently has none: how much training data does it actually take for a VLA system to reach reliable task performance — and does that number vary predictably by task type?
 
 *Conducted in collaboration with AIRA | Samuel Tinker, University of Washington*
 
