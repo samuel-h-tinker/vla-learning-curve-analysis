@@ -12,7 +12,7 @@ This project measures the learning curve of [AIRA](https://github.com/), a Visio
 
 ## Background
 
-AIRA connects a trained Vision-Language Model to a commercial collaborative robot, enabling researchers to automate physical lab protocols using natural language instructions. Before deploying AIRA at scale, the team needs to understand its training data requirements — both to plan data collection and to predict costs for new task categories.
+AIRA connects a trained Vision-Language Model to a commercial collaborative robot, enabling researchers to automate physical lab protocols using natural language instructions. Before deploying AIRA at scale, the team needs to understand its training data requirements in order to plan data collection and to predict costs for new task categories.
 
 The plan is to train incrementally and observe where performance stabilizes.
 
