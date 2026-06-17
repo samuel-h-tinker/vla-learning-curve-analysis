@@ -57,7 +57,7 @@ def plot_learning_curve(summary, task_name):
     ax.grid()
     ax.legend()
     fig.savefig(f"visualization/learning_curve_{task_name}.png")
-    plt.show()
+    return fig
 
 if __name__ == "__main__":
     df = load_task_record("task1")
